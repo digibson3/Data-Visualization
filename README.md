@@ -1,5 +1,5 @@
 # Data-Visualization
-# 🐾 Boulder Dog Trails – Interactive Visualization App
+# Boulder Dog Trails – Interactive Visualization App
 
 Flask application built to visualize and explore hiking trails in Boulder, Colorado, based on dog accessibility. Using real trail data from Boulder’s open data portal, the app lets users interact with maps and charts to quickly find which trails allow dogs off-leash, which require leashes, and which prohibit dogs altogether.
 
@@ -7,7 +7,7 @@ We built this to combine data cleaning, visualization, and web deployment into o
 
 ---
 
-## 🔍 Features
+## Features
 
 - **Interactive Map**  
   Mapbox visualization of trailheads, color-coded by dog policy. Use a dropdown to toggle between off-leash, leash-required, and no-dog trails.
