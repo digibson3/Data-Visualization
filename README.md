@@ -3,7 +3,7 @@
 
 Flask application built to visualize and explore hiking trails in Boulder, Colorado, based on dog accessibility. Using real trail data from Boulder’s open data portal, the app lets users interact with maps and charts to quickly find which trails allow dogs off-leash, which require leashes, and which prohibit dogs altogether.
 
-I built this to combine data cleaning, visualization, and web deployment into one interactive tool that’s actually useful for locals and visitors with pets.
+We built this to combine data cleaning, visualization, and web deployment into one interactive tool that’s actually useful for locals and visitors with pets.
 
 ---
 
