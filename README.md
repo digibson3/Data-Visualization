@@ -5,8 +5,6 @@ Flask application built to visualize and explore hiking trails in Boulder, Color
 
 We built this to combine data cleaning, visualization, and web deployment into one interactive tool that’s actually useful for locals and visitors with pets.
 
----
-
 ## Features
 
 - **Interactive Map**  
@@ -18,16 +16,14 @@ We built this to combine data cleaning, visualization, and web deployment into o
 - **Mileage Distribution**  
   A line chart showing how trail lengths are distributed—most are surprisingly short.
 
----
 
-## Tech Stack
+## Tools Used
 
 - **Python (Flask)** – handles routing and data processing  
 - **Pandas** – for data cleanup and transformations  
 - **Plotly** – used for both the map and interactive charts  
 - **HTML/CSS** – simple static front-end rendered with Flask templates  
 
----
 
 ## File Structure
 
@@ -41,7 +37,6 @@ We built this to combine data cleaning, visualization, and web deployment into o
 │   └── merged_trails.csv   # Cleaned dataset with GPS coordinates
 ```
 
----
 
 ## How to Run It Locally
 
@@ -70,7 +65,7 @@ The app reads in two datasets:
 - One for trail descriptions and dog regulations  
 - One merged version that includes GPS coordinates for mapping  
 
-I added a simple categorization function to group trails into:  
+We added a simple categorization function to group trails into:  
 - `off_leash`  
 - `leash_required`  
 - `no_dogs`  
