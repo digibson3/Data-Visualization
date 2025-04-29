@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `tq6h098h0ym00zp6` :
-USE `tq6h098h0ym00zp6`;
+-- Optional: CREATE DATABASE manually in terminal
+-- CREATE DATABASE trails;
 
 DROP TABLE IF EXISTS  `trail`
 
