@@ -10,7 +10,7 @@ We built this to combine data cleaning, visualization, and web deployment into o
 
 - **Interactive Map**  
   Mapbox visualization of trailheads, color-coded by dog policy. Use a dropdown to toggle between off-leash, leash-required, and no-dog trails.
-![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/dog%20friendly%20places%20around%20boulder.jpg).
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/off%20leash%20trails.jpg).
 - **Pie Chart Summary**  
   Quickly see what percentage of Boulder’s trails fall under each dog access category.
 ![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/dog%20access%20types.jpg).
@@ -25,10 +25,10 @@ We built this to combine data cleaning, visualization, and web deployment into o
 - **Pandas** – for data cleanup and transformations  
 - **Plotly** – used for both the map and interactive charts  
 - **HTML/CSS** – simple static front-end rendered with Flask templates  
-
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/flask%20ap.jpg).
 
 ## File Structure
-
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/the%20process.jpg).
 ```
 📦 boulder-dog-trails/
 ├── app.py                  # Main Flask application
