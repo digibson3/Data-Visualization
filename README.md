@@ -83,4 +83,5 @@ These categories are then used to build visual layers and charts.
 
 ## 📚 Resources
 
+- [OSMP Trails Open DATA](https://open-data.bouldercolorado.gov/datasets/d7ad8e150c164c32ab1690658f3fa662_4/about): contains the CSV and JSON data used for this project
 
