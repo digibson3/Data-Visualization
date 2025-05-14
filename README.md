@@ -75,3 +75,12 @@ We added a simple categorization function to group trails into:
 These categories are then used to build visual layers and charts.
 
 ---
+
+## 🎯 Conclusion
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/conclussions.jpg).
+
+---
+
+## 📚 Resources
+
+
