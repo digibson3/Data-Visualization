@@ -1,4 +1,4 @@
-
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/dog%20title.jpg).
 # Data-Visualization
 # Boulder Dog Trails – Interactive Visualization App
 
