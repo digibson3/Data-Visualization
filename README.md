@@ -10,13 +10,14 @@ We built this to combine data cleaning, visualization, and web deployment into o
 
 - **Interactive Map**  
   Mapbox visualization of trailheads, color-coded by dog policy. Use a dropdown to toggle between off-leash, leash-required, and no-dog trails.
-
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/dog%20friendly%20places%20around%20boulder.jpg).
 - **Pie Chart Summary**  
   Quickly see what percentage of Boulder’s trails fall under each dog access category.
-
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/dog%20access%20types.jpg).
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/trail%20access%20by%20category.jpg).
 - **Mileage Distribution**  
   A line chart showing how trail lengths are distributed—most are surprisingly short.
-
+![HQ graphic](https://github.com/digibson3/Data-Visualization/blob/lcannon/Images/trail%20mileage%20distribution.jpg).
 
 ## Tools Used
 
